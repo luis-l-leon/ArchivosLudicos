@@ -91,3 +91,9 @@ description: Conferencias, documentales, canales de youtube, etc.
 - [Put Your Name on Your Game, a Talk - Bennett Foddy and Zach Gage](https://www.youtube.com/watch?v=N4UFC0y1tY0)
 - [State of the Union - Bennett Foddy](https://www.youtube.com/watch?v=7XfCT3jhEC0)
 
+## Podcasts
+#### Inglés
+[The AIAS Game Maker’s Notebook](https://www.interactive.org/Interviews/the_game_makers_notebook.asp)
+
+#### Español
+[Textos Lúdicos](https://spotifyanchor-web.app.link/e/Lbfuqkhi0vb)
